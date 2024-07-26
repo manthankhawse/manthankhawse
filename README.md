@@ -33,6 +33,7 @@ I'm Manthan Khawse
 <summary>:trophy: Github Stats</summary>
 <img src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=manthankhawse">
 <img src="https://github-profile-trophy.vercel.app/?username=manthankhawse">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manthankhawse&layout=compact)](https://github.com/manthankhawse/github-readme-stats)
 
 
 <br>
