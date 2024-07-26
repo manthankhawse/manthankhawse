@@ -16,11 +16,11 @@ I'm Manthan Khawse
 - [Cloudburst Prediction](https://github.com/manthankhawse/Cloudburst-prediction-model-trained)
 - [Covid-19 Tracker](https://github.com/manthankhawse/Covid-19-Tracker)
 
-<details>
+
 <summary>:trophy: Github Stats</summary>
 <img src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=manthankhawse">
 <img src="https://github-profile-trophy.vercel.app/?username=manthankhawse">
-</details>
+
 
 <br>
 
