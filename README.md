@@ -31,7 +31,7 @@ I'm Manthan Khawse
 
 
 <summary>:trophy: Github Stats</summary>
-[!(https://github-readme-stats.vercel.app/api?username=manthankhawse)](https://github.com/manthankhawse/github-readme-stats)
+[![Manthan's Github Stats](https://github-readme-stats.vercel.app/api?username=manthankhawse)](https://github.com/manthankhawse/github-readme-stats)
 
 <img src="https://github-profile-trophy.vercel.app/?username=manthankhawse">
 
