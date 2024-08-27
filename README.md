@@ -10,7 +10,6 @@ I'm Manthan Khawse
 
 :star: Here are some projects that I've worked on:
 - [MockInt](https://github.com/manthankhawse/Interview-Platform)
-- [CropSelect](https://github.com/manthankhawse/cropSelect)
 - [Cloudburst Prediction](https://github.com/manthankhawse/Cloudburst-prediction-model-trained)
 - [Covid-19 Tracker](https://github.com/manthankhawse/Covid-19-Tracker)
 
